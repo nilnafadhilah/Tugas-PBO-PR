@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "212410101062_Tugas PBO PR/1.0.0": {
+        "runtime": {
+          "212410101062_Tugas PBO PR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "212410101062_Tugas PBO PR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

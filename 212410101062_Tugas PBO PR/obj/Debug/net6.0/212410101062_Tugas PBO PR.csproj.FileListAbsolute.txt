@@ -1,0 +1,15 @@
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.csproj.AssemblyReference.cache
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.AssemblyInfoInputs.cache
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.AssemblyInfo.cs
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.csproj.CoreCompileInputs.cache
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\bin\Debug\net6.0\212410101062_Tugas PBO PR.exe
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\bin\Debug\net6.0\212410101062_Tugas PBO PR.deps.json
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\bin\Debug\net6.0\212410101062_Tugas PBO PR.runtimeconfig.json
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\bin\Debug\net6.0\212410101062_Tugas PBO PR.dll
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\bin\Debug\net6.0\212410101062_Tugas PBO PR.pdb
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.dll
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\refint\212410101062_Tugas PBO PR.dll
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.pdb
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\212410101062_Tugas PBO PR.genruntimeconfig.cache
+C:\Users\Nilna\Documents\VISUAL STUDIO\212410101062_Tugas PBO PR\212410101062_Tugas PBO PR\obj\Debug\net6.0\ref\212410101062_Tugas PBO PR.dll
